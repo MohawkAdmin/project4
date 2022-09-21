@@ -1,0 +1,7 @@
+(.devops) mfry@DGSLAPBDZ87D3:/mnt/c/Users/E209739/nd9991-c2-Infrastructure-as-Code-v1/lesson4/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "demolocal" already exists
+NAME        READY   STATUS    RESTARTS   AGE
+demolocal   1/1     Running   0          6m29s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
