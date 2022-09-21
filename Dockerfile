@@ -13,8 +13,7 @@ COPY . /app
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
 RUN pip3 install --no-cache-dir -r requirements.txt
-#RUN pip install --upgrade pip && \
-#    pip install --no-cache-dir --trusted-host pypi.python.org -r requirements.txt
+
 
 ## Step 4:
 # Expose port 80
