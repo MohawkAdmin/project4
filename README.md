@@ -9,3 +9,8 @@
 * Configure Kubernetes and create a Kubernetes cluster: ./upload_docker.sh
 * Deploy a container using Kubernetes and make a prediction: ./run_kubernetes.sh AND ./make_prediction.sh
 * Upload a complete Github repo with CircleCI to indicate that your code has been tested: https://github.com/MohawkAdmin/project4.git
+
+
+Output file: ./output_txt_files/docker_out.txt contains results from "add at least one log statement to app.py that prints out the output prediction values and ./run_docker.sh again"
+
+Output file: ./output_txt_files/kubernetes_out.txt contains results from "Copy the text output after calling run_kubernetes.sh and paste it into a file kubernetes_out.txt."
